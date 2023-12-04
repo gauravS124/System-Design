@@ -25,7 +25,7 @@ For LLD round we have to focus on following things
 For case studies we can focus on Object Oriented Design Patterns by educative.io.
 
 ### HLD
-For HLD we the topics and syllabus is very vast but for starters we can start with 
+For HLD the topics and syllabus is very vast but for starters we can start with 
 - Alex Xu's books
 - Educative.io Grokking system Design and Grokking Advance system Design.
 - Gaurav Sen Video, ByteByteGo mini blogs and clips
